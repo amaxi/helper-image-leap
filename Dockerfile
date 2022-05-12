@@ -1,6 +1,6 @@
 FROM opensuse/leap:15.3
 
-LABEL hu.npsh.maintainer="Maxi Attila <attila.maxi@gmail.com" \
+LABEL hu.npsh.maintainer="Attila Maxi <attila.maxi@gmail.com" \
       hu.npsh.version="0.4" \
       hu.npsh.build_date="2022-05-12" \
       hu.npsh.description="Helper image for everything: debug tools, s3 tools"
