@@ -1,7 +1,6 @@
 # helper-image-leap
-helper-image-leap
 
-Useful tools for debugging and reach services inside Kubernetes and Docker.
+Useful tools for debugging and reaching services inside Kubernetes or Containers.
 
 # Packages
 - curl 
